@@ -1,0 +1,7 @@
+pytest
+
+# Not included because it is standard:
+# math
+
+# Not included because it is part of the project:
+# geometry.*
